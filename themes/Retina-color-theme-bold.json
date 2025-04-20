@@ -700,14 +700,7 @@
     },
     {
       "scope": "entity.name.class",
-      "settings": { "foreground": "#5ad4e6", "fontStyle": "bold" }
-    },
-    {
-      "scope": [
-        "entity.name.class.Counter",
-        "entity.name.class.Timer"
-      ],
-      "settings": { "foreground": "#5ad4e6", "fontStyle": "bold" }
+      "settings": { "foreground": "#5ad4e6", "fontStyle": "bold underline" }
     },
     {
       "scope": "entity.name.constant",
@@ -790,6 +783,10 @@
     {
       "scope": "entity.other.git-status.hex",
       "settings": { "foreground": "#948ae3" }
+    },
+    {
+      "scope": "entity.other.jinja2.delimiter",
+      "settings": { "foreground": "#8b888f" }
     },
     {
       "scope": "entity.name.operator.custom-literal",
