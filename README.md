@@ -2,6 +2,12 @@
 
 **Retina** is a sleek and calming dark theme designed to reduce eye strain and improve focus during long coding sessions.
 
+## 💡 Why Retina?
+
+Retina is crafted for developers who spend hours in front of the screen and want a theme that is not only beautiful but also easy on the eyes.
+
+Unlike other eye-care themes, this one is actually **aesthetic** and helps you **clearly distinguish your code** — it’s not just a simple contrast reduction.
+
 ---
 
 ## 🎨 Features
@@ -15,7 +21,7 @@
 
 ## 🧪 Preview
 
-> _Coming soon – you can include screenshots here when ready._
+![Retina Theme Preview](images/preview.png)
 
 ---
 
@@ -36,10 +42,4 @@ Retina is crafted for developers who spend hours in front of the screen and want
 
 ## 🧑‍💻 Author
 
-Made with care by [TuNombre].
-
----
-
-## 📃 License
-
-MIT License
+Made with ❤️ by RafaCMur.

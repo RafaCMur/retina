@@ -1,0 +1,15 @@
+# Retina Bold Theme License
+
+Copyright (c) 2025 RafaCMur
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this theme (the “Software”), to use, copy, modify, and distribute it 
+for **personal and non-commercial purposes only**, subject to the following conditions:
+
+- Commercial use, resale, sublicensing, or distribution of the Software or any derivative works **is strictly prohibited**, **except by the original author** (RafaCMur).
+- The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+- The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors be liable for any claim, damages or other liability.
+
+**Only RafaCMur (the author) is authorized to use the Software for commercial purposes or to grant licenses for such use.**
+
+By using this theme, you agree to the terms above.
