@@ -4,6 +4,7 @@
   "description": "Minimal eye strain. Maximum flow.",
   "version": "0.0.3",
   "publisher": "RafaCMur",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/RafaCMur/retina"

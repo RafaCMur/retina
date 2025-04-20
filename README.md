@@ -19,12 +19,6 @@ Unlike other eye-care themes, this one is actually **aesthetic** and helps you *
 
 ---
 
-## 🧪 Preview
-
-![Retina Theme Preview](images/preview.png)
-
----
-
 ## 📦 Installation
 
 1. Open **Extensions** sidebar in VS Code
