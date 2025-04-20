@@ -1,0 +1,21 @@
+{
+  "name": "retina",
+  "displayName": "Retina",
+  "description": "Minimal eye strain. Maximum flow.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retina",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Retina-color-theme.json"
+      }
+    ]
+  }
+}
