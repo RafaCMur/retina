@@ -701,7 +701,7 @@
     },
     {
       "scope": "entity.name.class",
-      "settings": { "foreground": "#5ad4e6", "fontStyle": "bold underline" }
+      "settings": { "foreground": "#5ad4e6", "fontStyle": "bold" }
     },
     {
       "scope": "entity.name.constant",
