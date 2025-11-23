@@ -2,7 +2,7 @@
   "name": "retina",
   "displayName": "Retina",
   "description": "Minimal eye strain. Maximum flow.",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "publisher": "RafaCMur",
   "icon": "images/icon.png",
   "repository": {
@@ -155,5 +155,8 @@
         "path": "./themes/Retina-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.7.0"
   }
 }
